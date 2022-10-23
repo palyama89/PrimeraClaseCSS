@@ -2,6 +2,7 @@
     background-color: black;
     color: beige;
     text-align: center;
+    font-family: 'Shalimar';
 }
 
 #imgPerfil{
@@ -23,3 +24,33 @@ h2{
     width: 70vw;
     text-align: center;
 }   
+
+.divInline{
+    display:block;
+}
+
+#familia{
+    display:inline-block;
+}
+
+#filmografia{
+    display:inline-block;
+}
+
+#biografia{
+    display:inline-block;
+}
+
+.flexElemento{
+    width: 400px;
+    height: 400px;
+    background-color: bisque;
+    margin: 15px;
+    color: black;
+    font-size: 500%;
+}
+
+.flexContenedor{
+    display: flex;
+    flex-wrap: wrap;
+}
