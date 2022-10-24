@@ -1,14 +1,14 @@
 *{
-    background-color: black;
+    background-color: rgb(3, 3, 3);
     color: beige;
     text-align: center;
-    font-family: 'Shalimar';
+    font-family: 'Silkscreen';
 }
 
 #imgPerfil{
     border-radius: 50%;
     border: 10px;
-    border-color: aqua;
+    border-color: gray;
 }
 
 .titulos{
@@ -38,7 +38,7 @@ h2{
 }
 
 #biografia{
-    display:inline-block;
+    display:inline;
 }
 
 .flexElemento{
